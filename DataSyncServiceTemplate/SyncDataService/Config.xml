@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<factorys>
+  <node>
+    <tag id="[SONGSHUI]F8:0" name="一水源清水池水位" type=""></tag>
+    <tag id="[SONGSHUI]F8:1" name="一水源出口压力" type=""></tag>
+    <tag id="[SONGSHUI]F8:2" name="清水池水位" type=""></tag>
+    <tag id="[SONGSHUI]F8:12" name="排水池水位" type=""></tag>
+    <tag id="[SONGSHUI]F8:61" name="管网末端压力" type=""></tag>
+    <tag id="[SONGSHUI]F8:62" name="出厂浊度" type=""></tag>
+    <tag id="[SONGSHUI]F8:11" name="出口压力" type=""></tag>
+    <tag id="[SONGSHUI]F8:14" name="出口流量" type=""></tag>
+    <tag id="[SONGSHUI]N7:37" name="1#送水泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:17" name="2#送水泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:27" name="3#送水泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:47" name="4#送水泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:57" name="5#送水泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:110" name="1#深井泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:120" name="2#深井泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:130" name="3#深井泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:140" name="4#深井泵电流" type=""></tag>
+    <tag id="[SONGSHUI]N7:150" name="5#深井泵电流" type=""></tag>
+
+    <tag id="[LVCHI1]F8:0" name="1#滤池水位" type=""></tag>
+    <tag id="[LVCHI1]F8:1" name="2#滤池水位" type=""></tag>
+    <tag id="[LVCHI1]F8:2" name="3#滤池水位" type=""></tag>
+
+    <tag id="[LVCHI2]F8:0" name="4#滤池水位" type=""></tag>
+    <tag id="[LVCHI2]F8:1" name="5#滤池水位" type=""></tag>
+    <tag id="[LVCHI2]F8:2" name="进水流量" type=""></tag>
+    <tag id="[LVCHI2]N7:10" name="1#反冲洗泵电流" type=""></tag>
+    <tag id="[LVCHI2]N7:20" name="2#反冲洗泵电流" type=""></tag>
+    <tag id="[LVCHI2]N7:30" name="3#反冲洗泵电流" type=""></tag>
+    
+  </node>
+</factorys>
+
+
+
