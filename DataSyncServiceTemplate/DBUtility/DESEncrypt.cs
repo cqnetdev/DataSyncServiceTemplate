@@ -22,7 +22,7 @@ namespace DBUtility
         /// <returns></returns>
 		public static string Encrypt(string Text) 
 		{
-            return Encrypt(Text, "cqnetdev");
+            return Encrypt(Text, "嘿嘿，在哪里找得到呢？");
 		}
 		/// <summary> 
 		/// 加密数据 
@@ -61,7 +61,7 @@ namespace DBUtility
         /// <returns></returns>
 		public static string Decrypt(string Text) 
 		{
-            return Decrypt(Text, "cqnetdev");
+            return Decrypt(Text, "嘿嘿，在哪里找得到呢？");
 		}
 		/// <summary> 
 		/// 解密数据 
